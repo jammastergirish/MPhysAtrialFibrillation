@@ -1,0 +1,10 @@
+we're now using the old geometry but stimulating more accurately from a point near the CT cells, done in library 6 march 2010
+
+same as 1 but gonna change geometry slightly and also make the stimulus a bit smaller
+
+same as two, but as we copied the geometry file from the first geometry file - the one in which i forgot to link the edge cells of the atria -- that didn't spread through the two atria. sorted that
+
+NOW WITH THE NEW GEOMETRY
+***
+
+repeated stimulus every 1000ms

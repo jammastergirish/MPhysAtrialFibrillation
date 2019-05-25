@@ -1,0 +1,5 @@
+stimulating just top, copied from 9
+
+but this time with the PVcell.h that we indexed with Oleg's help
+
+didn't work

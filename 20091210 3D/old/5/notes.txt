@@ -1,0 +1,3 @@
+3D model with a Z output
+
+now with a couple of changes, arrays moved to variables file and stimulus over a larger area (x=10 not 5

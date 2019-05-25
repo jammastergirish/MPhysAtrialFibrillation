@@ -1,0 +1,10 @@
+#BSUB -n 32
+
+#BSUB -W 6:00
+#BSUB -o test.out
+
+#BSUB -J girish
+
+#BSUB -q parallel
+
+prun -n 32 ./test

@@ -1,0 +1,10 @@
+3D
+
+D=0.25
+PV = 50
+
+Simulating a 3D pulmonary vein
+
+Third lot of corrections with Oleg.
+
+Stimulating PV

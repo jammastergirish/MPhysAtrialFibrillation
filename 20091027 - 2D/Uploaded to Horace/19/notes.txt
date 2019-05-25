@@ -1,0 +1,10 @@
+3D
+
+D=0.25
+PV = 50
+
+Simulating a 3D pulmonary vein
+
+Second lot of corrections
+
+making all variables equal to those in 1

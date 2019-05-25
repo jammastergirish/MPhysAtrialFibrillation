@@ -1,0 +1,21 @@
+10 PV = 25
+Not seeming to take much notice of the presence of PV
+
+11 PV = 20
+Same
+
+12 - 30
+Same
+
+13 - 35
+Same
+
+14 - 40
+Same
+
+15 - 45
+seems to be splitting off as it goes into the pulmonary vein
+
+16 - 15
+Seems to ignore it again
+

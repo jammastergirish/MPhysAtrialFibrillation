@@ -1,0 +1,19 @@
+3D
+
+D=0.25
+PV = 50
+
+Simulating a 3D pulmonary vein
+
+Starting again with a bigger set of changes after we lost them
+
+
+oleg's corrections from hsi email of 4th december
+
+i've chanhged the stimulus back to that of previous versions, i.e. not only in the pul vein
+
+red ring around PV
+
+further boundary condition corrections
+
+!!! scaled down 2/3rd

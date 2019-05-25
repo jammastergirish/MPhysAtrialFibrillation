@@ -1,0 +1,14 @@
+plane waves, attempt one to get rid of the resting 'stimulus' so that no spiral waves form unless hitting PV
+
+based on number 7 with a few lines commented out towards the end
+
+plane wave works, so now repeating it with oleg's change where for inexact number
+refer back to 16, change in the if statement within the loop
+
+EXACTLY THE SAME AS 20 BUT RUNNING FOR 6 HOURS
+
+all works fine so now changed time of second plane wave to 0.04
+
+COPIED TO 22 BUT RATHER THAN JUST ONE MORE PLANE WAVE AFTER THE INITIAL, WE'LL HAVE PLANE WAVES REPEATING AT EVERY 400ms.  RUNNING 9 HOURS
+
+same as 29 but now the right factor of ten so comes in every 0.08

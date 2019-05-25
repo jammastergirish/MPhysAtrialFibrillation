@@ -1,0 +1,4 @@
+just a cube of PV cells
+
+
+had forgotten to put zeroes around the sides so not using this any more

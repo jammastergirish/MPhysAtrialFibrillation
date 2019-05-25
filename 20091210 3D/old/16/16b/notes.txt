@@ -1,0 +1,7 @@
+plane waves, attempt one to get rid of the resting 'stimulus' so that no spiral waves form unless hitting PV
+
+based on number 7 with a few lines commented out towards the end
+
+plane wave works, so now repeating it with oleg's change where for inexact number
+
+with varying values near fabs

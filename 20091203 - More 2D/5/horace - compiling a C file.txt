@@ -1,0 +1,3 @@
+mpicc 2_Atria_2D.c -o test -
+
+bsub < submit.mpi

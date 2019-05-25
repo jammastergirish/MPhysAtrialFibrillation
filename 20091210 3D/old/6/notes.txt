@@ -1,0 +1,9 @@
+3D model with a Z output
+
+now with a couple of changes, arrays moved to variables file and stimulus over a larger area (x=10 not 5)
+
+5 WORKS
+
+so now with a smaller pulmonary vein, moved a little too and with a thinner wall
+
+stimulus still at bottom

@@ -1,0 +1,9 @@
+plane waves, attempt one to get rid of the resting 'stimulus' so that no spiral waves form unless hitting PV
+
+based on number 7 with a few lines commented out towards the end
+
+plane wave works, so now repeating it not with oleg's change cos it didn't work, but just between 2<t<3
+
+assume this won't work , our idea not oleg's 
+
+surprisingly this gave a second stimulus but it did not propagate

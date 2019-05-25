@@ -1,0 +1,7 @@
+plane waves, attempt one to get rid of the resting 'stimulus' so that no spiral waves form unless hitting PV
+
+based on number 7 with a few lines commented out towards the end
+
+plane wave works, so now repeating it with oleg's change where for inexact number
+
+this is all no longer needed as it didn't work to repeat the plane wave, updated to number 20

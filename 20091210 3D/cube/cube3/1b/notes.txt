@@ -1,0 +1,3 @@
+just a cube of PV cells with borders of 0.  
+
+taken numbers down by one

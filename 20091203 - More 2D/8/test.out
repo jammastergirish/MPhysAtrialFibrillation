@@ -1,0 +1,42 @@
+Sender: LSF System <lsfadmin@horace10>
+Subject: Job 88710: <girish> Exited
+
+Job <girish> was submitted from host <horace3> by user <mccsshz>.
+Job was executed on host(s) <4*horace10>, in queue <parallel>, as user <mccsshz>.
+                            <4*horace13>
+                            <8*horace16>
+                            <8*horace20>
+                            <8*horace21>
+</home/horace/mccsshz> was used as the home directory.
+</home/horace/mccsshz/scratch/girish> was used as the working directory.
+Started at Wed Oct 28 21:06:51 2009
+Results reported at Wed Oct 28 21:06:59 2009
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 32
+
+#BSUB -W 23:49
+
+#BSUB -o test.out
+
+#BSUB -J girish
+
+#BSUB -q parallel
+
+prun -n 32 ./test
+
+------------------------------------------------------------
+
+Exited with exit code 233.
+
+Resource usage summary:
+
+    CPU time   :      0.52 sec.
+
+The output (if any) follows:
+
+/home/horace/mccsshz/.lsbatch/1256661652.88710.shell: line 4: : command not found
+prun: Error: ./test does not have execute permission

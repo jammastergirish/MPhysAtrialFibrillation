@@ -1,0 +1,1 @@
+we're now using the old geometry but stimulating more accurately from a point near the CT cells, done in library 6 march 2010
